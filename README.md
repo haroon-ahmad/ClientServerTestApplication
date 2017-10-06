@@ -24,6 +24,8 @@ Whenever a client connects to the server, it will display three kinds of tests (
 
 
 Technologies:
+
 -Java
+
 -TCP and UDP communication.
 
